@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Banking">
+
+	<listeners>
+		<listener class-name="com.Banking.utility.Reporting" />
+	</listeners>
+
+	<test name="Banking Login TestCase">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<!--  class name="com.Banking.TestCase.TC_LoginTest_001" />-->
+			<!--  class name="com.Banking.TestCase.TC_DDT_002" /> -->
+			<class name="com.Banking.TestCase.TC_NewCustomer_003" />
+		</classes>
+	</test>
+</suite>

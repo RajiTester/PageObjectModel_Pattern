@@ -1,0 +1,13 @@
+2021-02-21 23:23:43 INFO  Banking:17 - Entered url
+2021-02-21 23:23:46 INFO  Banking:22 - Entered Username
+2021-02-21 23:23:46 INFO  Banking:25 - Entered Password
+2021-02-21 23:23:48 INFO  Banking:28 - Clicked login button
+2021-02-21 23:23:48 INFO  Banking:33 - Shown Message is correct
+
+
+2021-02-21 23:37:59 INFO  Banking:50 - Entered url
+2021-02-21 23:38:03 INFO  Banking:17 - Entered url
+2021-02-21 23:38:04 INFO  Banking:22 - Entered Username
+2021-02-21 23:38:05 INFO  Banking:25 - Entered Password
+2021-02-21 23:38:09 INFO  Banking:28 - Clicked login button
+2021-02-21 23:38:09 INFO  Banking:33 - Shown Message is correct

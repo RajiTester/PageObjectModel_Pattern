@@ -1,0 +1,68 @@
+2021-02-22 10:55:27 INFO  Banking:50 - Entered url
+2021-02-22 10:55:30 INFO  Banking:19 - Entered Username
+2021-02-22 10:55:31 INFO  Banking:22 - Entered Password
+2021-02-22 10:55:35 INFO  Banking:25 - Clicked login button
+2021-02-22 10:55:35 INFO  Banking:30 - Shown Message is correct
+2021-02-22 10:59:59 INFO  Banking:50 - Entered url
+2021-02-22 11:00:03 INFO  Banking:19 - Entered Username
+2021-02-22 11:00:04 INFO  Banking:22 - Entered Password
+2021-02-22 11:00:10 INFO  Banking:25 - Clicked login button
+2021-02-22 11:00:10 INFO  Banking:30 - Shown Message is correct
+2021-02-22 11:44:37 INFO  Banking:56 - Entered url
+2021-02-22 11:44:42 INFO  Banking:22 - Entered Username
+2021-02-22 11:44:42 INFO  Banking:25 - Entered Password
+2021-02-22 11:44:48 INFO  Banking:28 - Clicked login button
+2021-02-22 11:49:10 INFO  Banking:56 - Entered url
+2021-02-22 11:49:12 INFO  Banking:23 - Entered Username
+2021-02-22 11:49:12 INFO  Banking:26 - Entered Password
+2021-02-22 11:49:15 INFO  Banking:29 - Clicked login button
+2021-02-22 11:53:35 INFO  Banking:56 - Entered url
+2021-02-22 11:53:38 INFO  Banking:23 - Entered Username
+2021-02-22 11:53:39 INFO  Banking:26 - Entered Password
+2021-02-22 11:53:45 INFO  Banking:29 - Clicked login button
+2021-02-22 11:57:00 INFO  Banking:56 - Entered url
+2021-02-22 11:57:03 INFO  Banking:23 - Entered Username
+2021-02-22 11:57:03 INFO  Banking:26 - Entered Password
+2021-02-22 11:57:05 INFO  Banking:29 - Clicked login button
+2021-02-22 12:05:39 INFO  Banking:56 - Entered url
+2021-02-22 12:05:42 INFO  Banking:23 - Entered Username
+2021-02-22 12:05:42 INFO  Banking:26 - Entered Password
+2021-02-22 12:05:46 INFO  Banking:29 - Clicked login button
+2021-02-22 12:05:46 INFO  Banking:34 - Shown Message is correct
+2021-02-22 13:43:33 INFO  Banking:56 - Entered url
+2021-02-22 13:43:36 INFO  Banking:23 - Entered Username
+2021-02-22 13:43:36 INFO  Banking:26 - Entered Password
+2021-02-22 13:43:40 INFO  Banking:29 - Clicked login button
+2021-02-22 13:43:40 INFO  Banking:34 - Shown Message is correct
+2021-02-22 13:43:50 INFO  Banking:56 - Entered url
+2021-02-22 13:46:34 INFO  Banking:56 - Entered url
+2021-02-22 13:49:26 INFO  Banking:56 - Entered url
+2021-02-22 13:49:37 INFO  Banking:21 - user name provided
+2021-02-22 13:49:38 INFO  Banking:23 - password provided
+2021-02-22 13:49:49 INFO  Banking:38 - Login passed
+2021-02-22 13:59:10 INFO  Banking:56 - Entered url
+2021-02-22 13:59:21 INFO  Banking:21 - user name provided
+2021-02-22 13:59:21 INFO  Banking:23 - password provided
+2021-02-22 13:59:31 INFO  Banking:38 - Login passed
+2021-02-22 14:06:52 INFO  Banking:56 - Entered url
+2021-02-22 14:07:06 INFO  Banking:21 - user name provided
+2021-02-22 14:07:06 INFO  Banking:23 - password provided
+2021-02-22 14:07:18 INFO  Banking:38 - Login passed
+2021-02-22 14:09:19 INFO  Banking:56 - Entered url
+2021-02-22 14:09:27 INFO  Banking:21 - user name provided
+2021-02-22 14:09:28 INFO  Banking:23 - password provided
+2021-02-22 14:09:34 INFO  Banking:38 - Login passed
+2021-02-22 14:09:42 INFO  Banking:21 - user name provided
+2021-02-22 14:09:43 INFO  Banking:23 - password provided
+2021-02-22 14:09:49 INFO  Banking:21 - user name provided
+2021-02-22 14:09:49 INFO  Banking:23 - password provided
+2021-02-22 14:09:55 INFO  Banking:21 - user name provided
+2021-02-22 14:09:55 INFO  Banking:23 - password provided
+2021-02-22 14:10:02 INFO  Banking:38 - Login passed
+2021-02-22 15:41:45 INFO  Banking:57 - Entered url
+2021-02-22 15:41:49 INFO  Banking:20 - Entered is Username
+2021-02-22 15:41:50 INFO  Banking:23 - Entered is Password
+2021-02-22 15:41:55 INFO  Banking:26 - Clicked login button
+2021-02-22 15:42:05 INFO  Banking:34 - providing customer details....
+2021-02-22 15:42:21 INFO  Banking:56 - validation started....
+2021-02-22 15:42:21 INFO  Banking:63 - test case passed....
